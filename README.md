@@ -42,12 +42,12 @@ The actual output—the manuscript.
 ### Step 1: Context Loading
 When assigning a task (e.g., "Write Chapter 2"), the agent must dynamically load the relevant context.
 *   *Wrong*: Reading the whole previous chapter.
-*   *Right*: Reading `@Char_Santiago.md`, `@Loc_The_Skiff.md`, and `@Lore_The_Sea.md`.
+*   *Right*: Reading `@Santiago.md`, `@The_Skiff.md`, and `@The_Sea.md`.
 
 ### Step 2: Execution & Recursive Updates
 This is the most critical part. As the agent writes, it acts as a **Continuity Guardian**.
 *   **Scenario**: Santiago cuts his hand on the line.
-*   **Action**: The agent must **IMMEDIATELY** open `world/characters/Char_Santiago.md` and update the YAML frontmatter:
+*   **Action**: The agent must **IMMEDIATELY** open `world/characters/Santiago.md` and update the YAML frontmatter:
     ```yaml
     physical_traits:
       hands: "Deep-creased scars... fresh cut on right palm."
