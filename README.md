@@ -1,4 +1,4 @@
-# Modular Context Architecture (MCA)
+# Codex MCA - Modular Context Architecture
 
 > **"The novel is not a stream of text. It is a database of narrative entities."**
 
