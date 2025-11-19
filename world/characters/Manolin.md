@@ -7,6 +7,7 @@ physical_traits:
 personality_tags:
   devotion: "Loves Santiago and takes care of him."
   faith: "Believes in Santiago's luck when others don't."
+current_boat: "Lucky boat (caught 3 fish first week)"
 ---
 
 # Character Biography: Manolin

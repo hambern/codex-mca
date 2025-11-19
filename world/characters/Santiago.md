@@ -11,6 +11,7 @@ personality_tags:
   core: "Humble but proud."
   resilience: "A man can be destroyed but not defeated."
   relationship_to_nature: "Respects the fish as a brother."
+current_status: "Salao (84 days without fish)"
 ---
 
 # Character Biography: Santiago
